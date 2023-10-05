@@ -2,14 +2,12 @@
 --->  
 
 <h1 align="center"> 👋 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
-</div>
+
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
-<p align="center"><img src="33EP.gif"></p>
+<p align="center"><img src="33EP.gif" width="400px"></p>
 <p align="center">
-  <samp>My name is Mikhail, and I'm a Java developer passionate about the capabilities of this technology. Currently, I'm immersed in exploring everything related to Java, including Spring Boot and Hibernate. I'm also keen on discovering new technologies and tools. 
+  <samp>My name is Mikhail, and I'm a Java developer passionate about the capabilities of this technology. Currently, I'm immersed in exploring everything related to Java, including Spring Boot and Hibernate. I'm also keen on discovering new technologies and tools.
   </samp>
   <br> <br>
 </p>
@@ -18,31 +16,28 @@
 
 <h2 align="center"> 🔭 Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java3%20-%231572B6.svg?&style=for-the-badge&logo=java&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML%20-%2300D9FF.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3%20-%23D14836.svg?&style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Github%20-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 </p>
-<p align="center">HTML5, CSS3, Python3, GitHub, Docker, Linux, Nginx </p>
+<p align="center">Java, Spring, CSS3, HTML5, JavaScript, MySQL, Git. </p>
 
 <hr>
 
-<h2 align="center">💬 My Blog Articles</h2>
-<p align="center" align='right'>
-  <a target="_blank"href="https://t.me/b4dcat404"><img src="https://img.shields.io/badge/telegram-%231572B6.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a> <a target="_blank"href="https://dev.to/vi_dev0"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 
-</p>
 
 <hr>
 
-<h2  align="center">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/%D0%B2%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9-%D1%80%D0%B5%D0%B4%D1%8C%D0%BA%D0%B0-391220205/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/vi_dev0"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:vitalii.redka.dev@gmail.com?subject=Hello%20Vi,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<hr>
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mikhail-knyazev-6b8bb6294/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/MihKnyazev">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
